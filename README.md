@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @GregoryPana
 - 👀 I’m interested in Programming and Software development
-- 🌱 Bachelor in Computer Engineering
-- 🌱 Masters in Engineering
+- 🎓 Bachelor in Computer Engineering
+- 🎓 Masters in Engineering
 - 📫 How to reach me: gregorypanagary@gmail.com | gregpana28@gmail.com (email) +2482524490 (mobile & whatsapp)
-- My LinkedIn Profile: https://www.linkedin.com/in/gregory-panagary/
+- 👨‍💼 My LinkedIn Profile: https://www.linkedin.com/in/gregory-panagary/
+- 🌐 My Portfolio Page: https://gregorypana.github.io/GregoryPana/
 
 <!---
 GregoryPana/GregoryPana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
